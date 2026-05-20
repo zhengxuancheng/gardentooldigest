@@ -1,0 +1,27 @@
+baseURL: "https://gardentooldigest.pages.dev/"
+locale: "en-us"
+title: "Garden Tool Digest"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+enableEmoji: true
+
+params:
+  env: production
+  description: "In-depth reviews and buying guides for gardening tools — leaf blowers, lawn mowers, pruning shears, raised beds, hoses, and outdoor power equipment."
+  author: "Garden Tool Digest Team"
+  
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowPostNavLinks: true
+  
+  homeInfoParams:
+    Title: "Garden Tool Digest 🌿"
+    Content: "Honest gardening tool reviews and comparisons. We help you pick the right equipment for your garden, from cordless leaf blowers to raised bed kits."
+
+  socialIcons: []
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
