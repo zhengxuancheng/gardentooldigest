@@ -303,3 +303,4 @@ For blowers over 10 pounds, a shoulder strap makes a big difference during exten
 Cordless leaf blowers have reached the point where, for the vast majority of homeowners, there's no reason to buy gas anymore. Pick the one that matches your yard size and tool ecosystem, and enjoy yard work without the fumes and noise.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you.*
+
