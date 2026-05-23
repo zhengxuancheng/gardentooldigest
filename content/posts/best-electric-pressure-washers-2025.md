@@ -57,7 +57,7 @@ Built-in detergent tanks save you from buying a separate foam cannon. Multiple q
 
 ### 1. Sun Joe SPX3000 — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00CPGMUXW" >}}
 
 The SPX3000 has been the best-selling electric pressure washer for years, and the 2025 version keeps the formula: 2,030 PSI, 1.76 GPM, dual detergent tanks, and five quick-connect nozzles — all for around $150.
 
@@ -80,7 +80,7 @@ The SPX3000 has been the best-selling electric pressure washer for years, and th
 
 ### 2. Greenworks Pro 3000 — Best Heavy-Duty Electric
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0BGFZZVQD" >}}
 
 Greenworks packs a genuine 3,000 PSI into an electric unit, powered by a brushless motor that runs cooler and lasts longer than brushed alternatives. With 2.1 GPM and a 35-foot hose, it handles concrete like a gas unit.
 
@@ -100,7 +100,7 @@ Greenworks packs a genuine 3,000 PSI into an electric unit, powered by a brushle
 
 ### 3. Kärcher K1700 Cube — Best for Cars
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07THJ8C8D" >}}
 
 Kärcher designed the K1700 Cube specifically for home detailers. At 1,700 PSI and 1.2 GPM, it won't strip wax or damage clear coat. The compact cube shape tucks into a trunk or closet, and it's foam cannon compatible.
 
@@ -120,7 +120,7 @@ Kärcher designed the K1700 Cube specifically for home detailers. At 1,700 PSI a
 
 ### 4. Sun Joe SPX2700 — Best Budget
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07H8KNPJL" >}}
 
 The SPX2700 strips the dual detergent tanks of the SPX3000 but keeps the 2,030 PSI / 1.65 GPM motor at a lower price. You get the same TSS auto-shutoff, the same five nozzles, and the same 2-year warranty — for under $100.
 
@@ -141,7 +141,7 @@ The SPX2700 strips the dual detergent tanks of the SPX3000 but keeps the 2,030 P
 
 ### 5. Ryobi RY1419MT — Best Portable
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08Z4F3T1Q" >}}
 
 Ryobi's 1,900 PSI unit won't win a power contest, but it wins on convenience. At 19 lbs with a built-in carry handle and onboard storage for everything — hose, cord, nozzles, wand — it's the easiest unit to grab and go.
 
@@ -162,7 +162,7 @@ Ryobi's 1,900 PSI unit won't win a power contest, but it wins on convenience. At
 
 ### 6. DeWalt DCPW550B — Best Cordless
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0BVMZSJKW" >}}
 
 No outlet? No problem. DeWalt's 20V MAX cordless pressure washer runs off their standard 20V batteries (same batteries as DeWalt drills and saws). At 550 PSI and 1.0 GPM, it's not a driveway warrior — but it's perfect for spot cleaning, camping, boats, and quick car rinses.
 

@@ -45,7 +45,7 @@ No two-stroke exhaust in your face, no carbon monoxide in your garage. Battery b
 
 ### 1. EGO Power+ LB7654 — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B083FKDZ2S" >}}
 
 EGO has been dominating the battery outdoor tool category, and the LB7654 is their flagship blower. With a staggering 765 CFM at peak output, it genuinely rivals mid-range gas blowers — something that would have been unthinkable five years ago.
 
@@ -73,7 +73,7 @@ EGO has been dominating the battery outdoor tool category, and the LB7654 is the
 
 ### 2. Greenworks Pro 80V BL80L2510 — Best Runtime
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08N5HY2KG" >}}
 
 Greenworks' 80V platform delivers serious power, and the 2.5Ah battery in this kit gives you the longest runtime in its class. The brushless motor is efficient and durable.
 
@@ -101,7 +101,7 @@ Greenworks' 80V platform delivers serious power, and the 2.5Ah battery in this k
 
 ### 3. Ryobi 40V Whisper Series RY404100 — Best Value
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B09WN1GHRP" >}}
 
 Ryobi's Whisper Series is a major step up from their older blowers — quieter, more powerful, and better built. And as always with Ryobi, the price is very competitive.
 
@@ -129,7 +129,7 @@ Ryobi's Whisper Series is a major step up from their older blowers — quieter, 
 
 ### 4. DeWalt DCBL772B — Best for DeWalt Users
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07JH88YB9" >}}
 
 If you already own DeWalt 20V or FlexVolt tools, this is the obvious choice — it runs on the batteries you already have. The brushless axial fan design is efficient and delivers surprising power for a 20V blower.
 
@@ -157,7 +157,7 @@ If you already own DeWalt 20V or FlexVolt tools, this is the obvious choice — 
 
 ### 5. Makita XBU03SM1 — Best for Light Duty
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07KM2ZC5V" >}}
 
 Makita's 18V LXT blower isn't trying to compete with EGO on raw power. It's a lightweight, nimble tool designed for clearing driveways, decks, and small lawns.
 
@@ -185,7 +185,7 @@ Makita's 18V LXT blower isn't trying to compete with EGO on raw power. It's a li
 
 ### 6. WORX WG584 Power Share — Most Versatile
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07T7FPWQT" >}}
 
 The WORX WG584 is a convertible blower — it can function as a traditional handheld or convert to a corded mode with the included power cord. It also doubles as a vacuum and mulcher for sucking up and shredding leaves.
 
@@ -213,7 +213,7 @@ The WORX WG584 is a convertible blower — it can function as a traditional hand
 
 ### 7. Toro PowerJet F700 — Best Budget Cordless
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0C7R24YKM" >}}
 
 Technically a corded blower with a battery option — the Toro PowerJet F700 can run corded or on battery. The cordless mode won't win any power contests, but for quick driveway or patio clearing, it's perfectly adequate at a rock-bottom price.
 

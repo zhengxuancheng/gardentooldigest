@@ -47,7 +47,7 @@ No gas, no oil, no tune-ups. Over 5 years, a battery mower saves $200–$400 in 
 
 ### 1. EGO Power+ LM2156SP — Best Overall Cordless
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B093T592JM" >}}
 
 EGO continues to set the standard for battery outdoor equipment. The LM2156SP is their flagship self-propelled mower — 21-inch deck, mulching/bagging/side-discharge, and an efficient brushless motor.
 
@@ -77,7 +77,7 @@ EGO continues to set the standard for battery outdoor equipment. The LM2156SP is
 
 ### 2. Greenworks Pro 80V 21" Brushless — Best Runtime & Power
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08N5GJHP8" >}}
 
 Greenworks' 80V platform delivers serious torque. Dual battery ports let you run two 4.0Ah batteries for extended runtime, and the steel deck adds durability.
 
@@ -107,7 +107,7 @@ Greenworks' 80V platform delivers serious torque. Dual battery ports let you run
 
 ### 3. Ryobi 40V HP Brushless 21" RY401150 — Best Value
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08ZJQ6ZYY" >}}
 
 Ryobi's 40V HP line is one of the best values in outdoor power. This brushless 21-inch self-propelled mower delivers 80% of the EGO experience at 60% of the price — and works with every Ryobi 40V tool.
 
@@ -137,7 +137,7 @@ Ryobi's 40V HP line is one of the best values in outdoor power. This brushless 2
 
 ### 4. DeWalt DCMWP233U2 20V MAX — Best Dual-Battery System
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08XY62XMG" >}}
 
 DeWalt's mower runs on two standard 20V MAX batteries instead of a dedicated high-voltage pack. If you own DeWalt tools, you probably have compatible batteries ready. The brushless motor and 21.5-inch steel deck punch above their weight class.
 
@@ -167,7 +167,7 @@ DeWalt's mower runs on two standard 20V MAX batteries instead of a dedicated hig
 
 ### 5. Makita XML08PT1 36V (18V X2) — Best Build Quality
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07K3XRBQ3" >}}
 
 Makita uses two 18V LXT batteries in series to deliver 36V. The standout is legendary build quality — tight tolerances, smooth adjustments, and a whisper-quiet brushless motor.
 
@@ -197,7 +197,7 @@ Makita uses two 18V LXT batteries in series to deliver 36V. The standout is lege
 
 ### 6. Greenworks 12 Amp 20" Corded — Best Corded for Large Lawns
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07R92X67W" >}}
 
 If your lawn has accessible outdoor outlets, a corded mower delivers unlimited runtime and consistent power at a fraction of the battery price. The Greenworks 12 Amp 20" is the category leader — a powerful motor that never bogs down.
 
@@ -228,7 +228,7 @@ If your lawn has accessible outdoor outlets, a corded mower delivers unlimited r
 
 ### 7. WORX WG779 40V — Best Budget Cordless
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07R7Y3BNX" >}}
 
 Not everyone needs self-propelled or a 21-inch deck. The WORX WG779 is a compact push-only 40V mower that nails the basics — decent power, respectable runtime, and mulching/bagging — at a genuinely affordable price.
 
@@ -260,7 +260,7 @@ Not everyone needs self-propelled or a 21-inch deck. The WORX WG779 is a compact
 
 ### 8. Snapper XD 82V MAX 21" — Best for Thick Grass
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B09NL6S9VT" >}}
 
 Snapper's 82V platform delivers some of the highest torque in the cordless category. The load-sensing technology automatically increases power when it detects resistance — no turbo button needed.
 
