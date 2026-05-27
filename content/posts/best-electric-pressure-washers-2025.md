@@ -9,7 +9,7 @@ description: "Looking for the best electric pressure washer for your driveway, d
 draft: false
 ---
 
-Cleaning a driveway with a garden hose is like washing dishes with a spray bottle — technically possible, but you'll be there all day. An electric pressure washer turns a weekend chore into a 20-minute job.
+Cleaning a driveway with a garden hose is like washing dishes with a spray bottle: technically possible, but you'll be there all day. An electric pressure washer turns a weekend chore into a 20-minute job.
 
 But with models ranging from $80 to $300, and specs from 1,500 PSI to 3,000+ PSI, it's not obvious which one you need. We tested 6 of the best electric pressure washers in 2025 to help you pick.
 
@@ -204,7 +204,7 @@ For 90% of homeowners, 1,800–2,300 PSI is the sweet spot. It's strong enough t
 
 ### Is an electric pressure washer strong enough for concrete?
 
-Yes — with the right technique. Electric models at 2,000+ PSI with a turbo nozzle clean concrete effectively. They'll be slower than a 3,500 PSI gas unit, but they'll get the job done. For heavily stained concrete, pre-treat with a concrete cleaner and use the turbo nozzle.
+Yes, with the right technique. Electric models at 2,000+ PSI with a turbo nozzle clean concrete effectively. They'll be slower than a 3,500 PSI gas unit, but they'll get the job done. For heavily stained concrete, pre-treat with a concrete cleaner and use the turbo nozzle.
 
 ### Do I need a detergent tank or can I use a foam cannon?
 
@@ -212,7 +212,7 @@ Both work. Built-in detergent tanks are convenient for light cleaning solutions 
 
 ### Can I use hot water with an electric pressure washer?
 
-No — and this is the most common way people destroy their machines. Electric pressure washers are designed for cold water only (max 104°F / 40°C). Hot water damages internal seals and can melt plastic components. If you need hot water cleaning, you need a commercial hot-water unit (starting at $1,000+).
+No. This is the most common way people destroy their machines. Electric pressure washers are designed for cold water only (max 104°F / 40°C). Hot water damages internal seals and can melt plastic components. If you need hot water cleaning, you need a commercial hot-water unit (starting at $1,000+).
 
 ### How long do electric pressure washers last?
 

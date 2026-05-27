@@ -104,7 +104,7 @@ When you're moving 300+ lbs of pavers, stone, or firewood across a large propert
 
 ## FAQ
 
-### Pneumatic tires vs. flat-free — which is better?
+### Pneumatic tires vs. flat-free: which is better?
 
 Pneumatic tires absorb shock and roll over roots and curbs smoothly. They need air every few months. Flat-free tires never go flat but ride harder. For rough terrain and heavy loads, pneumatic wins. For light loads on flat ground, flat-free is more convenient.
 

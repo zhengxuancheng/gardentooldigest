@@ -11,7 +11,7 @@ draft: false
 
 A good hedge trimmer turns an afternoon of tedious shearing into a 20-minute satisfaction session. The wrong one leaves you with ragged cuts that brown at the tips, jammed blades that stall on half-inch branches, and arms that ache for days.
 
-Hedge trimmers have moved almost entirely to battery power in the last few years. Today's top cordless models match gas-powered performance for typical yard hedges — with none of the fuel mixing, pull-cord frustration, or ear-splitting noise. But picking the right one means balancing blade length, cutting capacity, battery compatibility, and reach. We tested 6 of the best hedge trimmers in 2025 for suburban yards, from compact shrub trimmers to long-reach pole models.
+Hedge trimmers have moved almost entirely to battery power in the last few years. Today's top cordless models match gas-powered performance for typical yard hedges — with none of the fuel mixing, pull-cord frustration, or ear-splitting noise. But picking the right one means balancing blade length, cutting capacity, battery compatibility, and reach. We tested 6 hedge trimmers for suburban yards, from compact shrub trimmers to long-reach pole models.
 
 ## What to Look For
 
@@ -251,7 +251,7 @@ Shape the bottom of the hedge wider than the top. This allows sunlight to reach 
 
 ### Why does my hedge trimmer keep jamming?
 
-Three common causes. One: you're cutting branches thicker than the trimmer's rated capacity. Two: the blade coating has worn off, and sap is building up between the blade teeth. Clean the blades with a brush and apply a lubricant like WD-40 or silicone spray. Three: the blades are dull — branches get trapped between teeth instead of being cut cleanly. Sharpen the blades and the jamming disappears.
+There are three common causes. You might be cutting branches thicker than the trimmer's rated capacity. Two: the blade coating has worn off, and sap is building up between the blade teeth. Clean the blades with a brush and apply a lubricant like WD-40 or silicone spray. Three: the blades are dull — branches get trapped between teeth instead of being cut cleanly. Sharpen the blades and the jamming disappears.
 
 ---
 

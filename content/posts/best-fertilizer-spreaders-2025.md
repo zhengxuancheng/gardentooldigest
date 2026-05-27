@@ -9,7 +9,7 @@ description: "A healthy, green lawn starts with even feeding. We tested 6 of the
 draft: false
 ---
 
-Throwing fertilizer by hand is a gamble. You'll get dark green stripes where your hand was heavy, pale patches where it was light, and the sinking feeling you've wasted half the bag. A good spreader is the difference between a patchy lawn and one that glows with uniform health — and it pays for itself by eliminating wasted product.
+Throwing fertilizer by hand is a gamble. You'll get dark green stripes where your hand was heavy, pale patches where it was light, and the sinking feeling you've wasted half the bag. A good spreader is the difference between a patchy lawn and one that glows with uniform health. It pays for itself by eliminating wasted product.
 
 Fertilizer spreaders come in three types: broadcast spreaders that fling granules in a wide arc, drop spreaders that release material in a precise strip directly beneath the hopper, and handheld models for small lawns. We tested 6 of the best in 2025 to help you decide.
 
@@ -237,7 +237,7 @@ Striping happens when passes don't overlap correctly. Broadcast spreaders throw 
 
 ### Can I use the same spreader for fertilizer, grass seed, and ice melt?
 
-Yes — but clean thoroughly between uses. Fertilizer and ice melt are corrosive; rinse the hopper and impeller with water after each application and dry completely. Consider a dedicated cheap spreader for ice melt in snowy climates.
+Yes, but clean thoroughly between uses. Fertilizer and ice melt are corrosive; rinse the hopper and impeller with water after each application and dry completely. Consider a dedicated cheap spreader for ice melt in snowy climates.
 
 ### Are pneumatic tires worth it on a push spreader?
 
@@ -258,6 +258,6 @@ Empty remaining fertilizer after every use. Rinse the hopper and impeller with a
 - **Best handheld:** Solo 421S — powered spread pattern in a portable, 20-pound package for small lawns and slopes.
 - **Best budget handheld:** Scotts Whirl — costs almost nothing and handles tiny lawns and spot work perfectly.
 
-A good spreader is one of those tools you don't appreciate until you use a bad one. Even coverage means a uniformly green lawn, less wasted product, and no accidental burns. Pick the spreader that matches your lawn size, and your grass will thank you.
+A good spreader is one of those tools you don't appreciate until you use a bad one. Even coverage means a uniformly green lawn, less wasted product, and no accidental burns. Pick the spreader that matches your lawn size, and you'll wonder how you ever did this by hand.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you.*

@@ -13,7 +13,7 @@ Breaking new ground in a garden is honest work. A shovel will get you there, but
 
 A good cultivator or tiller turns compacted clay into fluffy loam, mixes in compost, churns under cover crops, and saves your lower back from the kind of repetitive strain that makes you question why you planted anything at all. But the market divides into several categories — front-tine, rear-tine, electric, cordless, and mini-cultivators — and picking the wrong one is a common mistake. A rear-tine tiller that can chew through hardpan clay is overkill for maintaining established flower beds. A mini-cultivator that handles weeding between rows won't break new ground in a vegetable plot.
 
-We tested six of the best cultivators and tillers across every category to help you match the right tool to the soil you're working.
+We put six cultivators and tillers through their paces — front-tine, rear-tine, electric, cordless, and mini — so you can match the tool to your dirt.
 
 ## What to Look For in a Garden Cultivator or Tiller
 
@@ -278,6 +278,6 @@ For medium gardeners breaking ground and maintaining 500 to 1,500 square feet, t
 
 And for new ground, heavy clay, and gardens measured in acre fractions, the **Husqvarna TF545R** with its counter-rotating tines and 189cc engine is the tool that lets you break soil that other tillers would just bounce off of.
 
-The rule of thumb: match your tool to your soil, not your ambitions. Rent the heavy machine once to break ground. Buy the cultivator you'll use every week to maintain it.
+Match your tool to your soil, not your ambitions. Rent the heavy machine once to break ground. Buy the cultivator you'll use every week to maintain it.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you.*

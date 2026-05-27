@@ -11,7 +11,7 @@ draft: false
 
 A garden hose seems like the simplest tool in your shed — until it kinks mid-watering, leaks at the fittings, or weighs so much you dread dragging it across the yard. A bad hose makes every gardening task frustrating. A good one disappears into the background and just works.
 
-But the hose aisle is overwhelming: rubber vs. vinyl vs. polyurethane, expandable vs. traditional, 25 feet vs. 100 feet, brass fittings vs. plastic. We tested 6 of the best garden hoses in 2025 to help you pick the right one — whether you're watering hanging baskets on a patio or running a sprinkler across half an acre.
+But the hose aisle is overwhelming: rubber vs. vinyl vs. polyurethane, expandable vs. traditional, 25 feet vs. 100 feet, brass fittings vs. plastic. We put 6 hoses through a full season of dragging, coiling, and kinking to find the ones worth buying — whether you're watering hanging baskets on a patio or running a sprinkler across half an acre.
 
 ## How We Evaluated
 
@@ -308,6 +308,6 @@ Small leaks at the fitting end can be repaired with a $5 hose mender from any ha
 - **Best expandable:** Pocket Hose Copper Bullet — shrinks to 1/3 size, weighs 2.5 pounds, perfect for small spaces and quick tasks.
 - **Best indestructible:** Bionic Steel 50-Foot — stainless steel can't kink, won't puncture, and ignores UV rays. The hose for extreme conditions.
 
-A great garden hose is one of those things you don't appreciate until you've used a bad one. Spend the extra $10–$20 for quality fittings and kink-resistant materials — your back, your plants, and your Saturday mornings will thank you.
+A great garden hose is one of those things you don't appreciate until you've used a bad one. Spend the extra money on quality fittings and kink-resistant materials. It's one of the few garden purchases where an extra $15 genuinely changes the experience.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you. This does not influence our recommendations.*

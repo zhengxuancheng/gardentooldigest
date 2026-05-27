@@ -11,7 +11,7 @@ draft: false
 
 Gardening is a sport where you spend hours kneeling on the ground. If you've ever tried to weed a flower bed on wet grass with nothing under your knees, you know how fast that becomes a problem. The right kneeler doesn't just make you more comfortable. It keeps you gardening longer, with less pain the next day.
 
-But the market is full of kneelers that aren't up to it. Too thin, soak up water and stay wet, flip over when you stand up, or fall apart after one season in the sun. We tested 7 of the most popular options to find the ones that hold up.
+But the market is full of kneelers that aren't up to it. Too thin, soak up water and stay wet, flip over when you stand up, or fall apart after one season in the sun. We tested 7 of the most popular options — here's what held up and what didn't.
 
 ## What to Look For in a Garden Kneeler
 
@@ -335,6 +335,6 @@ If you work **on paved surfaces or in a greenhouse**, the **Gorilla Grip large p
 
 And if you spend **hours on your knees in a large garden** and need maximum stability, the **KoolTai heavy-duty bench** is worth the extra weight. It won't slide, won't wobble, and the thicker frame will outlast lighter benches.
 
-Whichever you choose, store it out of the rain and your knees will thank you.
+Whichever you choose, store it out of the rain. A wet, mildewed kneeler is worse than no kneeler at all.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you.*

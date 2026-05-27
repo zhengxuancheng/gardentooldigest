@@ -9,7 +9,7 @@ description: "Ready to ditch gas and cords? We tested 8 electric lawn mowers —
 draft: false
 ---
 
-Gas mowers are loud, smelly, and require constant maintenance. Corded mowers tether you to an outlet. The modern battery-powered lawn mower delivers gas-like cutting power, push-button starts, near-silent operation, and zero direct emissions — and has quietly become the smartest choice for most homeowners.
+Gas mowers are loud, smelly, and require constant maintenance. Corded mowers tether you to an outlet. The modern battery-powered lawn mower delivers gas-like cutting power, push-button starts, near-silent operation, and zero direct emissions. For most homeowners, that makes it the smartest choice.
 
 We tested 8 of the best electric lawn mowers to help you find the right one.
 
@@ -311,7 +311,7 @@ On a dry, moderately-tall lawn, expect: EGO ~80 min, Greenworks 80V ~90 min (dua
 
 ### Are electric mowers powerful enough to replace gas?
 
-For the vast majority of homeowners — yes. The EGO, Greenworks 80V, and Snapper 82V all cut through thick, damp grass without stalling. They won't match a commercial gas mower running 8 hours daily, but for residential lawns up to half an acre, they're more than adequate. Bonus: no bogging from old gas or gummed-up carburetors.
+For most homeowners, yes. The EGO, Greenworks 80V, and Snapper 82V all cut through thick, damp grass without stalling. They won't match a commercial gas mower running 8 hours daily, but for residential lawns up to half an acre, they're more than adequate. Bonus: no bogging from old gas or gummed-up carburetors.
 
 ### What's better — mulching, bagging, or side discharge?
 
@@ -336,6 +336,6 @@ Lithium-ion batteries are rated for 500–1,000 charge cycles before dropping be
 - **Best budget:** WORX WG779 40V — light, affordable, perfect for small lawns.
 - **Best for thick grass:** Snapper XD 82V MAX — load-sensing auto-boost powers through overgrowth.
 
-Electric lawn mowers have crossed the threshold. For the vast majority of homeowners, there's an electric mower that fits your lawn, your budget, and your values. Quiet, clean, maintenance-free mowing isn't the future — it's the present.
+Electric mowers are ready now. There's one that fits your lawn, your budget, and how much you hate the smell of gas. Quiet, clean mowing without a single trip to the pump.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you. This does not influence our recommendations.*

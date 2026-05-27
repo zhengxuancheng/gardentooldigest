@@ -9,9 +9,9 @@ description: "A rain barrel can save 1,300 gallons of water per season — and y
 draft: false
 ---
 
-Your garden wants rainwater. Tap water contains chlorine, chloramine, and dissolved minerals that accumulate in soil over time. Rainwater is naturally soft, slightly acidic, and rich in nitrogen — plants visibly respond to it. A single 50-gallon rain barrel can collect 1,300 gallons per season from a 1,000 sq ft roof.
+Your garden wants rainwater. Tap water contains chlorine, chloramine, and dissolved minerals that accumulate in soil over time. Rainwater is naturally soft, slightly acidic, and rich in nitrogen. Plants visibly respond to it. A single 50-gallon rain barrel can collect 1,300 gallons per season from a 1,000 sq ft roof.
 
-We tested 6 of the best rain barrels in 2025 for capacity, durability, features, and ease of installation. Whether you want a basic barrel or a decorative urn that blends with your landscaping, here's what to look for.
+We tested 6 rain barrels for capacity, durability, features, and ease of installation. Whether you want a basic barrel or a decorative urn that blends with your landscaping, here's what matters.
 
 ## What to Look For
 
@@ -197,7 +197,7 @@ Yes. Water expands when it freezes and will crack your barrel. Drain completely 
 
 ### Is rainwater actually safe for vegetable gardens?
 
-Yes — and it's better than tap water. Rainwater contains dissolved nitrogen from the atmosphere, which acts as a mild fertilizer. The main risk is contamination from roof materials: avoid using rainwater from asphalt shingle roofs on edible leafy greens (root vegetables and fruiting plants are fine). If your roof is asphalt, use the rain barrel for ornamentals and lawn, or install a first-flush diverter that discards the initial dirty runoff.
+Yes, and it's better than tap water. Rainwater contains dissolved nitrogen from the atmosphere, which acts as a mild fertilizer. The main risk is contamination from roof materials: avoid using rainwater from asphalt shingle roofs on edible leafy greens (root vegetables and fruiting plants are fine). If your roof is asphalt, use the rain barrel for ornamentals and lawn, or install a first-flush diverter that discards the initial dirty runoff.
 
 ---
 
@@ -209,6 +209,6 @@ Yes — and it's better than tap water. Rainwater contains dissolved nitrogen fr
 - **Need more water:** Enviro World FreeGarden at 55 gallons or Graf Mondo at 65
 - **Best features:** Suncast RB50D — dual spigot, hose storage, plant trays
 
-A rain barrel pays for itself in a single growing season if you pay for municipal water. Even if you don't, your plants will thank you for the switch from chlorinated tap water to natural rainwater.
+If you pay for municipal water, a rain barrel pays for itself in a single growing season. Even if you don't, your plants will grow better on rainwater than chlorinated tap water.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you.*

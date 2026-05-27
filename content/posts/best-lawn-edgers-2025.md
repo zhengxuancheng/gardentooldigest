@@ -11,7 +11,7 @@ draft: false
 
 A lawn mower cuts the grass. A string trimmer cleans up what the mower missed. But for that sharp, professional-looking edge along sidewalks, driveways, and flower beds — the kind that makes neighbors slow down and look — you need a dedicated lawn edger.
 
-Lawn edgers use a vertical spinning blade to cut a clean trench between your grass and hardscape. The result is a defined border that stays crisp for weeks. We tested 6 of the best lawn edgers in 2025 across gas, electric, and manual categories to help you pick the right tool for your yard.
+Lawn edgers use a vertical spinning blade to cut a clean trench between your grass and hardscape. The result is a defined border that stays crisp for weeks. We tested 6 lawn edgers across gas, electric, and manual — here's what works for different yard sizes.
 
 ## What to Look For in a Lawn Edger
 
@@ -205,12 +205,12 @@ Not effectively. Electric edgers maintain existing edges — they don't have the
 
 ## The Bottom Line
 
-- **Large property, professional results:** McLane 101-5.5GT — the gold standard gas edger
+- **Large property, professional results:** McLane 101-5.5GT — the gas edger professionals use
 - **Suburban homeowner on a budget:** Black+Decker LE760FF or WORX WG896
 - **Most power in a corded electric:** Greenworks 12 Amp
 - **Small yard, zero noise:** Bully Tools manual rotary
 - **Creating new landscape edges:** True Temper half-moon — under $30, bulletproof
 
-A clean edge is one of the cheapest, highest-impact improvements you can make to your yard. Pick the tool that matches your property size and you'll wonder why you waited so long.
+A clean edge makes a surprising difference to how your whole yard looks. Pick the tool that matches your property size and you'll see it the first time you step back and look.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you.*

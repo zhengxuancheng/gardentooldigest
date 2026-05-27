@@ -9,7 +9,7 @@ description: "Solar path lights transform your yard after dark — no wiring, no
 draft: false
 ---
 
-Solar path lights have evolved. Five years ago, "solar outdoor lighting" meant dim blue-white dots that died by 10 PM. Today's best models use monocrystalline panels, lithium batteries, and warm-white LEDs to produce light that rivals low-voltage wired systems — without the trenching, transformer, or electric bill.
+Solar path lights have evolved. Five years ago, "solar outdoor lighting" meant dim blue-white dots that died by 10 PM. Today's models use monocrystalline panels, lithium batteries, and warm-white LEDs to produce light that rivals low-voltage wired systems. No trenching, no transformer, no electric bill.
 
 ## Top 6 Solar Path Lights
 

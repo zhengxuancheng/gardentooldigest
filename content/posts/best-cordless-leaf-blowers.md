@@ -9,7 +9,7 @@ description: "Tired of dragging extension cords or mixing gas? We tested 7 cordl
 draft: false
 ---
 
-Leaf blowers have come a long way. A few years ago, "cordless leaf blower" meant a barely-useful breeze that couldn't move wet leaves. Today's battery-powered blowers rival gas models in power — without the noise, fumes, or pull-cord frustration.
+Leaf blowers have come a long way. A few years ago, "cordless leaf blower" meant a barely-useful breeze that couldn't move wet leaves. Today's battery-powered blowers rival gas models in power, without the noise, fumes, or pull-cord frustration.
 
 But with dozens of options from brands like EGO, Greenworks, Ryobi, and DeWalt, picking the right one isn't easy. We tested 7 of the best cordless leaf blowers to help you decide.
 
@@ -284,7 +284,7 @@ High CFM matters more. MPH tells you how fast the air moves, but CFM tells you h
 
 ### Can I use a leaf blower to clear snow?
 
-Yes — light, dry snow (under 2 inches) can be cleared with a powerful cordless blower. It won't work on wet, heavy snow, and it's not a replacement for a snow blower.
+Yes, light, dry snow (under 2 inches) can be cleared with a powerful cordless blower. It won't work on wet, heavy snow, and it's not a replacement for a snow blower.
 
 ### Do I need a shoulder strap?
 
@@ -300,7 +300,7 @@ For blowers over 10 pounds, a shoulder strap makes a big difference during exten
 - **Best for light duty:** Makita XBU03 — featherweight and easy to use.
 - **Best budget:** Toro PowerJet F700 — corded/cordless flexibility at a low price.
 
-Cordless leaf blowers have reached the point where, for the vast majority of homeowners, there's no reason to buy gas anymore. Pick the one that matches your yard size and tool ecosystem, and enjoy yard work without the fumes and noise.
+For most yards, there's just no reason to buy a gas blower anymore. Match the blower to your yard size and whatever battery system you already own. Then go enjoy a Saturday morning that doesn't smell like a two-stroke engine.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you.*
 

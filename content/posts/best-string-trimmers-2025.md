@@ -9,11 +9,11 @@ description: "Looking for the best string trimmer to handle edging, trimming, an
 draft: false
 ---
 
-A lawn mower handles the open grass, but it can't reach fence lines, garden beds, or around trees. That's where a string trimmer — often called a weed eater or weed whacker — earns its keep. It's the detail tool that transforms a "just mowed" lawn into a manicured landscape.
+A lawn mower handles the open grass, but it can't reach fence lines, garden beds, or around trees. That's where a string trimmer — often called a weed eater or weed whacker — earns its keep. It's the detail tool that turns a "just mowed" lawn into a manicured landscape.
 
-The string trimmer market has evolved rapidly. Today's top cordless models rival gas trimmers in power while eliminating fuel mixing, pull cords, and exhaust fumes. But with options ranging from budget plug-in models to professional-grade battery systems, picking the right one means weighing cutting width, battery compatibility, line feed mechanism, weight, and price.
+Cordless string trimmers have gotten good. Today's best battery models rival gas trimmers in power without the fuel mixing, pull cords, and exhaust fumes. But with options from budget plug-in models to professional-grade battery systems, picking the right one means weighing cutting width, battery compatibility, line feed mechanism, weight, and price.
 
-We tested 6 of the best string trimmers in 2025 to help you choose.
+We tested 6 string trimmers to help you choose.
 
 ## How We Evaluated
 
@@ -275,7 +275,7 @@ For yards under 1/4 acre, a 12–15 inch cutting width is perfectly adequate. Fo
 
 ### Are battery string trimmers as powerful as gas?
 
-Top-tier battery trimmers like the EGO ST1623T and Greenworks 80V deliver power that matches mid-range gas models. They'll handle thick grass, weeds, and light brush without issue. Gas still has an edge for commercial-scale work or clearing acres of heavy overgrowth, but for residential use, battery has effectively caught up — and you don't have to deal with fuel mixing or pull cords.
+Battery trimmers like the EGO ST1623T and Greenworks 80V deliver power that matches mid-range gas models. They'll handle thick grass, weeds, and light brush without issue. Gas still has an edge for commercial-scale work or clearing acres of heavy overgrowth, but for residential use, battery has effectively caught up — and you don't have to deal with fuel mixing or pull cords.
 
 ### What's the difference between a straight shaft and curved shaft trimmer?
 
@@ -289,7 +289,7 @@ With moderate use (about 30 minutes per week), a spool of line lasts 4–8 weeks
 
 ### Can I use a string trimmer for edging along sidewalks and driveways?
 
-Yes — most straight-shaft trimmers can be tilted 90 degrees to edge along hard surfaces. Some models (like the WORX WG163) have dedicated edging modes with guide wheels for cleaner, straighter results. For professional-looking edges, a dedicated walk-behind edger produces sharper lines, but a trimmer held at an angle does the job for the vast majority of homeowners.
+Yes, most straight-shaft trimmers can be tilted 90 degrees to edge along hard surfaces. Some models (like the WORX WG163) have dedicated edging modes with guide wheels for cleaner, straighter results. For professional-looking edges, a dedicated walk-behind edger produces sharper lines, but a trimmer held at an angle does the job for the vast majority of homeowners.
 
 ---
 
@@ -302,6 +302,6 @@ Yes — most straight-shaft trimmers can be tilted 90 degrees to edge along hard
 - **Best value:** Ryobi 40V HP Whisper Series — strong performance at roughly half the price of premium competitors.
 - **Most versatile:** WORX WG163 GT 3.0 — trimmer, edger, and mini-mower in one lightweight, affordable package.
 
-A good string trimmer is the difference between a lawn that looks "mowed" and one that looks manicured. Pick the one that matches your yard size and tool ecosystem, and you'll wonder how you ever lived without it.
+A good string trimmer turns a "mowed" lawn into a manicured one. Pick a trimmer that matches your yard size and fits the batteries you already own. After that, it's just a few minutes of quiet work on Saturday morning.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you. This does not influence our recommendations.*

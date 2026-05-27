@@ -11,7 +11,7 @@ draft: false
 
 Gas mowers roar. Electric mowers whirr. But a reel mower — a reel mower whispers. The soft "snikt-snikt-snikt" of spinning blades against a stationary bed knife is the sound of a Sunday morning that doesn't wake the neighbors.
 
-Reel mowers cut grass by scissoring each blade between a spinning reel and a fixed bed knife — a fundamentally cleaner cut than the tearing action of a rotary mower. The result? Healthier grass that's less susceptible to disease and brown tips. We tested 6 of the best reel mowers for lawns from 500 to 5,000 square feet.
+Reel mowers cut grass by scissoring each blade between a spinning reel and a fixed bed knife — a fundamentally cleaner cut than the tearing action of a rotary mower. The result is healthier grass that's less susceptible to disease and brown tips. We tested 6 reel mowers for lawns from 500 to 5,000 square feet.
 
 ## What to Look For
 
@@ -212,6 +212,6 @@ Yes. Rotary mowers tear grass with a horizontal blade. Reel mowers cut it with a
 - **Thick, healthy grass:** Earthwise 7-blade — the finest cut
 - **Trusted brand:** Greenworks 20-Inch — modern design and features
 
-A reel mower isn't for everyone — but for the right lawn and the right owner, it's a quiet, emission-free, meditative way to care for your grass. And your neighbors will thank you for the silence.
+A reel mower isn't for everyone. But for the right lawn and the right owner, it's a quiet, emission-free way to care for your grass. And your neighbors won't complain about the noise.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you.*
